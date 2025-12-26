@@ -1,0 +1,8 @@
+{
+  "name": "HAND Social Enterprise",
+  "description": "A comprehensive workforce management tool for tracking check-ins (WFH, Office, Off-Site) with shared calendars, real-time manager dashboards, and Excel reporting.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
